@@ -1,0 +1,27 @@
+
+#You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+ ## * What new skills have you learned?
+ ## * What has been easy?
+ ## * What has been difficult?
+ ## * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+##Your response goes here!
+
+ ## * What new skills have you learned?
+ ### I never knew about the figure element in HTML for images.
+
+ ## * What has been easy?
+
+ ### Some of the HTML things I knew before such as headers. Overall, it has not been that hard, so it's mostly review for me, but its hard's in the sense of not knowing every single element, so I have to google it.
+
+ ## * What has been difficult?
+
+ ### For some strange reason, the Udacity Chrome Extension works for me (every checkbox is checked), but when I submit work for the quiz it shows up as error. It has been difficult submitting quizzes to show that I did them properly. 
+
+ ### Otherwise, it is mostly review where I have to look up things.
+
+ ## * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+ ### I have been looking up things from time to time.
